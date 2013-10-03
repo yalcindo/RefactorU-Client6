@@ -1,4 +1,4 @@
-// makes words olural
+// makes words plural
 var pluralize= function(word,num)
 {
     return num === 1 ? word : word + "s";
